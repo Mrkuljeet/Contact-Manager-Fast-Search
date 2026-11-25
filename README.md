@@ -1,6 +1,6 @@
 # Contact Manager with Fast Search
 
-A console-based Contact Directory Management System developed in **Java** as part of the Data Structures and Algorithms (DSA) coursework at **Rungta International Skills University** (School of Computer Science and Engineering).
+ **Java** as part of the Data Structures and Algorithms (DSA) coursework at **Rungta International Skills University** (School of Computer Science and Engineering).
 
 ---
 
